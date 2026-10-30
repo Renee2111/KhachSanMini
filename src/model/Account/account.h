@@ -36,5 +36,4 @@ public:
     std::string toCSV() const;
     void fromCSV(const std::string& line);
 };
-
 #endif
